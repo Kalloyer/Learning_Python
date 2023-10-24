@@ -1,0 +1,6 @@
+N_1 = input ('Primeiro Número')
+N_2 = input ('Segundo Número')
+N1 = int (N_1)
+N2 = int (N_2)
+soma = (N1 + N2)
+print ('A soma  é ', soma)
