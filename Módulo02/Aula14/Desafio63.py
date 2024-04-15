@@ -5,6 +5,7 @@ print(14 * "=-=")
 termo = int(input("Quantos termos você deseja mostrar? "))
 termo1 = 0
 termo2 = 1
+print(42 * "~")
 print("{} => {} => ".format(termo1, termo2), end="")
 contador = 3
 while contador <= termo:
